@@ -1,17 +1,4 @@
-<<<<<<< HEAD
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
 # 🧑‍💻 Developer Portfolio - React One Page
 
 신입 백엔드 개발자를 위한 One Page 포트폴리오입니다.  
@@ -84,4 +71,4 @@ src/
 
 이 프로젝트는 React 기반 프론트엔드 역량을 어필하기 위한 자기소개형 포트폴리오입니다.  
 깔끔한 구조, 컴포넌트 분리, 정적 배포, 그리고 사용자를 고려한 반응형 UI를 중심으로 구현하였습니다.  
->>>>>>> df26ebde091f72eff0d3b522de6f6669f3598e78
+

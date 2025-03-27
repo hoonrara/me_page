@@ -73,8 +73,8 @@ src/
 
 ## 🔗 배포 주소
 
-👉 [https://your-portfolio.vercel.app](https://your-portfolio.vercel.app)  
-(*your-portfolio.vercel.app은 실제 도메인으로 바꿔주세요*)
+👉 https://me-page-tawny.vercel.app/
+
 
 ---
 
